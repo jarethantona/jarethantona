@@ -2,7 +2,7 @@
 
 - 👋 Hey, how's it going? I’m @jarethantona
 - 👀 I’m interested in building transformative financial products through software development
-- 🌱 I’m currently learning full-stack Java development (JDBC, JSP, Spring, Tomcat)
+- 🌱 I’m currently learning full-stack Java development (Java, JDBC, JSP, Spring, Tomcat, PostgreSQL, Vue.js, JavaScript, HTML, CSS)
 - 💞️ I’m looking to collaborate on open source projects!
 - 📧 Email: antona.jareth@gmail.com 
 - 🔵 LinkedIn: https://www.linkedin.com/in/jarethantona/ 
