@@ -1,3 +1,5 @@
+## Hey there!
+
 - 👋 Hi, I’m @jarethantona
 - 👀 I’m interested in building transformative financial products through software development
 - 🌱 I’m currently learning full-stack Java development (JDBC, JSP, Spring, Tomcat)
