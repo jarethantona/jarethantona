@@ -1,4 +1,4 @@
-## Hello World!
+## Welcome to my Github!
 
 - 👋 Hey, how's it going? I’m @jarethantona
 - 👀 I’m interested in building transformative financial products through software development
