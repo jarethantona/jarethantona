@@ -1,9 +1,9 @@
 ## Welcome to my Github!
 
-- 👋 Hey, how's it going? I’m @jarethantona
-- 👀 I’m interested in building transformative financial products through software development
-- 🌱 I’m currently learning full-stack Java development (Java, JDBC, JSP, Spring, Tomcat, PostgreSQL, Vue.js, JavaScript, HTML, CSS)
-- 💞️ I’m looking to collaborate on open source projects!
+- 👋 Hey, how's it going? I’m @jarethantona:
+- 👀 A full-stack software engineer interested in building transformative financial products through software development
+- 🌱 Currently, I'm learning full-stack Java development (Java, JDBC, JSP, Spring, Tomcat, PostgreSQL, Vue.js, JavaScript, HTML, CSS) with Tech Elevator
+- 💞️ At this time, I’m looking for Junior Developer roles or opportunities to collaborate on open source projects!
 - 📧 Email: antona.jareth@gmail.com 
 - 🔵 LinkedIn: https://www.linkedin.com/in/jarethantona/ 
 
