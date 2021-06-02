@@ -1,9 +1,8 @@
 ## Welcome to my Github!
 
 - 👋 Hey, how's it going? I’m @jarethantona:
-- 👀 A full-stack software engineer interested in building transformative products and applications through software development
-- 🌱 Currently, I'm learning full-stack Java development (Java, Spring Boot, PostgreSQL, Vue.js, JavaScript, HTML, CSS) with Tech Elevator
-- ❗ Always looking for opportunities to collaborate on open source projects!
+- 👀 A full-stack software engineer interested in building transformative products and applications through software development.
+- ❗ Feel free to message me! I am always looking for opportunities to collaborate.
 - 📧 Email: antona.jareth@gmail.com 
 - 🔵 LinkedIn: https://www.linkedin.com/in/jarethantona/ 
 
